@@ -32,7 +32,6 @@ public class PracticeFormTests {
 
         $("#subjectsContainer").click();
         $("#subjectsInput").setValue("com");
-        //$(byText("Computer Science")).click();
         $("#react-select-2-option-0").click();
         $("#subjectsContainer").click();
         $("#subjectsInput").setValue("arts").pressEnter();
